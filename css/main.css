@@ -125,6 +125,7 @@ textarea {
     line-height: 1.5em;
     font-size: 1.25em;
     height: auto;
+    width: 25%;
   }
 
 .wrapper span {
